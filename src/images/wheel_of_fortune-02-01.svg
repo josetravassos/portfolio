@@ -1,0 +1,49 @@
+<svg id="fortune" xmlns="http://www.w3.org/2000/svg" width="380" height="380" viewBox="0 0 380 380">
+    <g id="wheel">
+        <g id="slice-1">
+            <path id="sliceBkg_1" data-name="sliceBkg 1" d="M353.7,95.49,190,190V1Z" fill="#ddd" fill-rule="evenodd" />
+        </g>
+        <g id="slice-4">
+            <path id="sliceBkg_1-2" data-name="sliceBkg 1" d="M190,190l0,189L26.31,284.5Z" fill="#ddd"
+                fill-rule="evenodd" />
+        </g>
+        <g id="slice-5">
+            <path id="sliceBkg_1-3" data-name="sliceBkg 1" d="M26.3,95.48,190,190,26.3,284.49Z" fill="#ccc"
+                fill-rule="evenodd" />
+        </g>
+        <g id="slice-2">
+            <path id="sliceBkg_1-4" data-name="sliceBkg 1" d="M190,190,353.7,95.5l0,189Z" fill="#ccc"
+                fill-rule="evenodd" />
+        </g>
+        <g id="slice-3">
+            <path id="sliceBkg_1-5" data-name="sliceBkg 1" d="M190,379V190l163.67,94.52Z" fill="#bbb"
+                fill-rule="evenodd" />
+        </g>
+        <g id="slice-6">
+            <path id="sliceBkg_1-6" data-name="sliceBkg 1" d="M190,190,26.31,95.47,190,1Z" fill="#bbb"
+                fill-rule="evenodd" />
+        </g><text transform="translate(320.52 105.96) rotate(-30)" font-size="14" fill="#666"
+            font-family="Roboto-Black, Roboto" font-weight="800">Bio</text><text
+            transform="translate(317.36 258.99) rotate(30)" font-size="14" fill="#666"
+            font-family="Roboto-Black, Roboto" font-weight="800">
+            <tspan letter-spacing="-0.02em">W</tspan>
+            <tspan x="11.96" y="0">ork</tspan>
+        </text><text transform="translate(32.13 116.77) rotate(30)" font-size="14" fill="#666"
+            font-family="Roboto-Black, Roboto" font-weight="800">
+            <tspan letter-spacing="-0.02em">W</tspan>
+            <tspan x="11.96" y="0">ork</tspan>
+        </text><text transform="translate(185.42 62.15) rotate(-90)" font-size="14" fill="#666"
+            font-family="Roboto-Black, Roboto" font-weight="800">Contact</text><text
+            transform="translate(203.6 366.93) rotate(-90)" font-size="14" fill="#666"
+            font-family="Roboto-Black, Roboto" font-weight="800">Contact</text><text
+            transform="translate(47.58 290) rotate(-30)" font-size="14" fill="#666" font-family="Roboto-Black, Roboto"
+            font-weight="800">Bio</text>
+    </g>
+    <g id="arrow">
+        <polygon id="Rectangle"
+            points="176.64 97.04 190 78.12 203.36 97.04 203.36 301.88 190 282.96 176.64 301.88 176.64 97.04"
+            fill-rule="evenodd" opacity="0.7" style="isolation:isolate" />
+        <circle id="Oval" cx="190" cy="190" r="7.06" fill="#d8d8d8" stroke="#bdbdbd" stroke-width="2" />
+        <circle id="pointer" cx="190" cy="73.99" r="1.76" fill="none" />
+    </g>
+</svg>
